@@ -13,14 +13,17 @@ import numpy as np
 def adding_matrices(X,Y):
     
     """
-    Adds two matrices element-wise.
+    Description: 
+    
+        Adds two matrices element-wise.
     
     Parameters:
-    - matrix1: First matrix (2D list)
-    - matrix2: Second matrix (2D list)
+       - matrix1: First matrix (2D list)
+       - matrix2: Second matrix (2D list)
     
     Returns:
-    - result: Sum of the two matrices (2D list)
+       - result: Sum of the two matrices (2D list)
+       
     """
     
     return X+Y
